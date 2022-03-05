@@ -4,4 +4,11 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - ToRead.md
+  - README.md
+  - ARTICLES.md
+  - BLOGS.md
+  - RESSOURCES.md
+  - TOP_LECTURE.md
+  - TUTOS.md
+
+theme: jekyll-theme-tactile
