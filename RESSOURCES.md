@@ -1,5 +1,3 @@
-# Ressources :
-
 - Builder de site web [Astro](https://astro.build)
 - Library JS for structured state [TinyBase](https://tinybase.org)
 - Branchement d'Api / Sdk regroupé [RapidApi](https://rapidapi.com/products/hub/)

@@ -1,5 +1,3 @@
-# Tutos :
-
 - Tuto Npm [Create and Publish Your Own NPM Module](https://javascript.plainenglish.io/create-and-publish-your-own-npm-module-216bffe82dc5)
 - Créer un composant de pagination - React-Query [How to build a Pagination Component with React-Query (in 4 easy steps)](https://upmostly.com/tutorials/how-to-build-a-pagination-component-with-react-query)
 - Eth et React [Build an Ethereum Transaction App with React and Solidity](https://coinsbench.com/building-an-ethereum-transaction-app-with-react-and-solidity-part-one-51b6ebff4437)
@@ -10,3 +8,4 @@
 - Custom React Hook [React Js Create and Use Own Custom Hook Tutorial](https://www.positronx.io/react-js-create-and-use-own-custom-hook-tutorial/)
 - Dynamic filter angular forms Rxjs [Dynamic filtering with RxJs and Angular forms — A tutorial](https://blog.angulartraining.com/dynamic-filtering-with-rxjs-and-angular-forms-a-tutorial-6daa3c44076a)
 - Extansible API Service Angular [How to Create an Extensible API Service in Angular](https://javascript.plainenglish.io/how-to-create-an-extensible-api-service-in-angular-e451073a2f90)
+- Mise à jour auto README [Self-updating GitHub Profile README with JavaScript](https://dev.to/dancurtis/self-updating-github-profile-readme-with-javascript-lhm)

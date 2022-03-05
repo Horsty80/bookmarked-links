@@ -1,4 +1,2 @@
-## Blogs :
-
 - [Kent C. Dodds](https://kentcdodds.com)
 - [Anthony Pena](https://k49.fr.nf)
