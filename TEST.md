@@ -1,2 +1,0 @@
-<br />-&nbsp;Pour voir si ça se met à jour&nbsp;[Blog de Cyril](https://horsty.fr)<br />* Pour voir si ça se met à jour [Blog de Cyril](https://horsty.fr)  
-- Pour voir si ça se met à jour [Blog de Cyril](https://horsty.fr)

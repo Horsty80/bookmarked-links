@@ -1,4 +1,2 @@
-  
-- Pour voir si ça se met à jour [Blog de Cyril](https://horsty.fr)  
-- Pour voir si ça se met à jour [Blog de Cyril](https://horsty.fr)  
-- Pour voir si ça se met à jour [Blog de Cyril](https://horsty.fr)
+- [Kent C. Dodds](https://kentcdodds.com)
+- [Anthony Pena](https://k49.fr.nf)
